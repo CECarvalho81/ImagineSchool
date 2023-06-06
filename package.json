@@ -1,0 +1,27 @@
+{
+  "name": "imagineschool",
+  "version": "0.0.1",
+  "description": "site_eventos",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CECarvalho81/ImagineSchool.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Carlos Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CECarvalho81/ImagineSchool/issues"
+  },
+  "homepage": "https://github.com/CECarvalho81/ImagineSchool#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
