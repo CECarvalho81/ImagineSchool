@@ -4,6 +4,7 @@
   "description": "site_eventos",
   "main": "src/index.html",
   "scripts": {
+    "start": "npx Live-server src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
