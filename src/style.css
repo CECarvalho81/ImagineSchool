@@ -3,16 +3,16 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css');
 
-@import "./scc/_variables.css";
-@import "./scc/_base.css";
-@import "./scc/_utils.css";
-@import "./scc/_btn.css";
-@import "./scc/_navbar.css"; 
-@import "./scc/_footer_css";
+@import "./css/_variables.css";
+@import "./css/_base.css";
+@import "./css/_utils.css";
+@import "./css/_btn.css";
+@import "./css/_navbar.css"; 
+@import "./css/_footer.css";
 
 
-@import "./scc/_home.css";
-@import "./scc/_contacts.css";
+@import "./css/_home.css";
+@import "./css/_contacts.css";
 
 
 
