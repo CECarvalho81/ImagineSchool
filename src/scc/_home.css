@@ -109,7 +109,7 @@
     margin-bottom: 2.5rem;
 }
 
-.quote {
+.quote{
     background-image: url(./src/images/parallax.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -117,19 +117,19 @@
     background-position: center;
 }
 
-.quote .container {
+.quote .container{
     display: grid;
     align-items: center;
     justify-items: end;
     min-height: 80vh;
 }
 
-.quote__copy {
+.quote__copy{
     background-color: #fff;
     padding: 5.625rem 4.375rem;
 }
 
-.quote__copy h6 {
+.quote__copy h6{
     font-size: 0.9375rem;
     font-weight: 400;
     letter-spacing: 0.1875rem;
@@ -139,7 +139,7 @@
     margin: 0;
 }
 
-.quote__copy h2 {
+.quote__copy h2{
     font-size: 5rem;
     line-height: 5rem;
     text-transform: uppercase;
@@ -147,7 +147,6 @@
     margin: 1.875rem 0;
 }
 
-.quote__copy h2 span {
+.quote__copy h2 span{
     display: block;
 }
-

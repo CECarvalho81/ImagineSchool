@@ -8,8 +8,11 @@
 @import "./scc/_btn.css";
 @import "./scc/_utils.css";
 @import "./scc/_navbar.css"; 
+@import "./scc/_home.css";
 @import "./scc/_footer_css"
 
-@import "./scc/_home.css";
+
 @import "./scc/_contacts.css";
+
+
 
