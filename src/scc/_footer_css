@@ -76,7 +76,7 @@
 
 .footer__form  button:hover{
    color: #fff;
-   background-color: var(--color-copy)
+   background-color: var(--color-copy);
 }
 
 
